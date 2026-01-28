@@ -155,6 +155,8 @@ Two Tableau dashboard views were created, following:
 
 ## 📈 Dashboard 1 — Airbnb Occupancy Insights
 
+![Occupancy Insights Dashboard](images/airbnb_occupancy_insights_dashboard.png)
+
 ### Key Metrics
 
 - Average Occupancy Rate: **77%**
@@ -175,6 +177,8 @@ Two Tableau dashboard views were created, following:
 📌 Pricing is a powerful but delicate lever.
 
 ## 🔍 Dashboard 2 — Factors Impacting Occupancy (Beyond Price)
+
+![Factors Impacting Occupancy Dashboard](images/factors_impacting_occupancy_dashboard.png)
 
 This view focuses on **non-pricing levers** Airbnb can influence.
 
